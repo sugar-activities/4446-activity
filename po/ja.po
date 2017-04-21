@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-07-13 12:41+0000\n"
+"PO-Revision-Date: 2011-12-05 03:45+0200\n"
+"Last-Translator: shirayuki <shirayuking@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#: activity/activity.info:2
+msgid "Mateton"
+msgstr "Mateton"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:29
+msgid "Tools"
+msgstr "ツール"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:40
+msgid "Erase"
+msgstr "消去"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:44
+msgid "Save"
+msgstr "保存"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:48
+msgid "Load"
+msgstr "読み込み"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:53
+msgid "History"
+msgstr "履歴"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:60
+msgid "Undo"
+msgstr "取り消し"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:66
+msgid "Zoom"
+msgstr "ズーム"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:81
+msgid "Start new operation"
+msgstr "新しい操作を開始"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:90
+msgid "Addition"
+msgstr "足し算"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:93
+msgid "Subtraction"
+msgstr "引き算"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:96
+msgid "Multiplication"
+msgstr "かけ算"
+
+#: /home/rodripf/Programacion/Mateton2/src/objects/Menu.py:99
+msgid "Division"
+msgstr "割り算"
